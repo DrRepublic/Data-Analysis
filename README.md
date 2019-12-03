@@ -1,2 +1,2 @@
 # Data-Analysis
-To store some data analysis programes
+This is a simple promgram about Huffman Tree. It is to compress and decompress files.
